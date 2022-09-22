@@ -1,0 +1,180 @@
+body
+{
+	background-color: #042460;
+}
+
+#container
+{
+		width: 1200px;
+		margin-left: auto;
+		margin-right: auto;
+}
+
+header
+{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 120px;
+	font-weight: bold;
+}
+
+#for_client
+{
+	float: left;
+	margin-top: 50px;
+	width: 600px;
+}
+
+#first_line
+{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+.line
+{
+	text-align: center;
+	padding-top: 30px;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#about
+{
+	float: left;
+	margin-top: 50px;
+	margin-left: 25px;
+	width: 575px;
+}
+
+.option
+{
+	float: left;
+	width: 275px;
+	background-color: #FF9800;
+	height: 265px;
+	margin-right: 25px;
+	padding-bottom: 10px;
+}
+
+.option:last-child
+{
+	float: left;
+	width: 275px;
+	background-color: #FF9800;
+	height: 245px;
+	margin-right: 25px;
+	padding-top: 30px;
+	font-weight: normal;
+}
+
+.option:hover, .option:last-child:hover
+{
+	background-color: #dd7600;
+}
+
+.option2
+{
+	float: left;
+	width: 275px;
+	background-color: #00bcff;
+	height: 245px;
+	margin-right: 25px;
+	margin-top: 25px;
+	padding-top: 30px;
+}
+
+.option2:hover
+{
+	background-color: #009add;
+}
+
+#option3
+{
+	width: 545px;
+	padding: 15px;
+	height: 430px;
+	background-color: #00bcff;
+	font-size: 50px;
+}
+
+#option4
+{
+	margin-top: 25px;
+	height: 80px;
+	background-color: #696666;
+	font-size: 35px;
+	padding: 10px;
+	text-align: center;
+	font-weight: normal;
+}
+
+a
+{
+	text-align: center;
+	text-decoration: none;
+	color: #696666;
+	
+}
+
+footer
+{
+	margin-top: 50px;
+	text-align: center;
+	font-size: 25px;
+	color: #696666;
+}
+
+ul
+{
+	padding-top: 10px;
+	margin: 0;
+}
+
+ul > li
+{
+	font-weight: bold;
+	font-size: 30px;
+}
+
+p
+{
+	font-size: 30px;
+	text-align: justify;
+}
+
+#contacts
+{
+	display: block;
+	width: 530px;
+	padding-top: 70px;
+	padding-left: 15px;
+	height: 375px;
+	font-size: 25px;
+	text-align: justify;
+	line-height: 3;
+}
+
+.links
+{
+	line-height: 1,5;
+	font-size: 30px;
+	text-align: justify;
+}
+
+q
+{
+	font-weight: bold;
+}
+
+#hello
+{
+	display: block;
+	width: 545px;
+	padding-top: 115px;
+	height: 330px;
+	text-align: center;
+	font-size: 50px;
+}
